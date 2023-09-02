@@ -1,0 +1,257 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "White Widow",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 20,
+      "poster": "",
+      "image_local": "/assets/images/white_widow.jpg",
+      "rating": 5,
+      "in_stock": true,
+      "count": 30,
+      "best_seller": true,
+      "type": "flower",
+      "sub_type": "indica",
+      "thc_level": "25.8%"
+    },
+    {
+      "id": 10002,
+      "name": "Strawberry Kush",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 19,
+      "image_local": "/assets/images/kush.jpg",
+      "rating": 5,
+      "in_stock": true,
+      "count": 20,
+      "best_seller": true,
+      "type": "flower",
+      "sub_type": "hybrid",
+      "thc_level": "28.5%"
+    },
+    {
+      "id": 10003,
+      "name": "Pax 3",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 200,
+      "image_local": "/assets/images/pax3.jpg",
+      "rating": 4,
+      "in_stock": false,
+      "count": 0,
+      "best_seller": false,
+      "type": "device",
+      "sub_type": "vaping",
+      "thc_level": ""
+    },
+    {
+      "id": 10004,
+      "name": "Vaping",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 40,
+      "image_local": "/assets/images/vaping.jpg",
+      "rating": 2,
+      "in_stock": true,
+      "count": 7,
+      "best_seller": false,
+      "type": "vaping",
+      "sub_type": "oil",
+      "thc_level": ""
+    },
+    {
+      "id": 10005,
+      "name": "CBD Tincture",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 30,
+      "image_local": "/assets/images/tincture.jpg",
+      "rating": 1,
+      "in_stock": true,
+      "count": 4,
+      "best_seller": false,
+      "type": "CBD",
+      "sub_type": "oil",
+      "thc_level": "9.2%"
+    },
+    {
+      "id": 10006,
+      "name": "Purple Haze",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 27,
+      "image_local": "/assets/images/indica-purple-haze.png",
+      "rating": 4,
+      "in_stock": true,
+      "count": 9,
+      "best_seller": true,
+      "type": "flower",
+      "sub_type": "indica",
+      "thc_level": "31.2%"
+    },
+    {
+      "id": 10007,
+      "name": "Sunrise Haze",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 22,
+      "image_local": "/assets/images/sunrise.jpg",
+      "rating": 2,
+      "in_stock": true,
+      "count": 14,
+      "best_seller": false,
+      "type": "flower",
+      "sub_type": "hybrid",
+      "thc_level": "27.3%"
+    },
+    {
+      "id": 10008,
+      "name": "Sunset Haze",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 23,
+      "image_local": "/assets/images/sunset.png",
+      "rating": 1,
+      "in_stock": false,
+      "count": 0,
+      "best_seller": false,
+      "type": "flower",
+      "sub_type": "sativa",
+      "thc_level": "25.1%"
+    }
+  ],
+  "featured_products": [
+    {
+      "id": 10001,
+      "name": "White Widow",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 20,
+      "poster": "",
+      "image_local": "/assets/images/white_widow.jpg",
+      "rating": 5,
+      "in_stock": true,
+      "count": 30,
+      "best_seller": true,
+      "type": "flower",
+      "sub_type": "indica",
+      "thc_level": "25.8%"
+    },
+    {
+      "id": 10002,
+      "name": "Strawberry Kush",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 19,
+      "image_local": "/assets/images/kush.jpg",
+      "rating": 5,
+      "in_stock": true,
+      "count": 20,
+      "best_seller": true,
+      "type": "flower",
+      "sub_type": "hybrid",
+      "thc_level": "28.5%"
+    },
+    {
+      "id": 10003,
+      "name": "Pax 3",
+      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 200,
+      "image_local": "/assets/images/pax3.jpg",
+      "rating": 4,
+      "in_stock": false,
+      "count": 0,
+      "best_seller": false,
+      "type": "device",
+      "sub_type": "vaping"
+    }
+  ],
+  "orders": [
+    {
+      "date_time_ms": 1693611096580,
+      "date_time_iso": "2023-09-01T23:31:36.580Z",
+      "cartList": [
+        {
+          "id": 10001,
+          "name": "White Widow",
+          "image_local": "/assets/images/white_widow.jpg",
+          "price": 20,
+          "quantity": 1
+        },
+        {
+          "id": 10002,
+          "name": "Strawberry Kush",
+          "image_local": "/assets/images/kush.jpg",
+          "price": 19,
+          "quantity": 1
+        }
+      ],
+      "amount_paid": 39,
+      "items_count": 2,
+      "user": {
+        "email": "dew@test.com",
+        "id": 1
+      },
+      "id": 1
+    },
+    {
+      "date_time_ms": 1693615196301,
+      "date_time_iso": "2023-09-02T00:39:56.301Z",
+      "cartList": [
+        {
+          "id": 10001,
+          "name": "White Widow",
+          "image_local": "/assets/images/white_widow.jpg",
+          "price": 20,
+          "quantity": 1
+        },
+        {
+          "id": 10002,
+          "name": "Strawberry Kush",
+          "image_local": "/assets/images/kush.jpg",
+          "price": 19,
+          "quantity": 1
+        }
+      ],
+      "amount_paid": 39,
+      "items_count": 2,
+      "user": {
+        "email": "dew@test.com",
+        "id": 1
+      },
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "email": "dew@test.com",
+      "password": "$2a$10$cMYBavqQVsM1kchtbCItFu4Tysh0Gwzw/pRnv7QsJQ7TbaB4d.hIS",
+      "first_name": "Damon",
+      "last_name": "Williams",
+      "permission": [
+        1000
+      ],
+      "id": 1
+    }
+  ],
+  "user_role": [
+    {
+      "id": 1,
+      "role_name": "admin",
+      "permission": 1000
+    },
+    {
+      "id": 2,
+      "role_name": "manager",
+      "permission": 2000
+    },
+    {
+      "id": 2,
+      "role_name": "client",
+      "permission": 3000
+    }
+  ]
+}
