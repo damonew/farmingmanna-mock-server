@@ -171,33 +171,6 @@
   ],
   "orders": [
     {
-      "date_time_ms": 1693611096580,
-      "date_time_iso": "2023-09-01T23:31:36.580Z",
-      "cartList": [
-        {
-          "id": 10001,
-          "name": "White Widow",
-          "image_local": "/assets/images/white_widow.jpg",
-          "price": 20,
-          "quantity": 1
-        },
-        {
-          "id": 10002,
-          "name": "Strawberry Kush",
-          "image_local": "/assets/images/kush.jpg",
-          "price": 19,
-          "quantity": 1
-        }
-      ],
-      "amount_paid": 39,
-      "items_count": 2,
-      "user": {
-        "email": "dew@test.com",
-        "id": 1
-      },
-      "id": 1
-    },
-    {
       "date_time_ms": 1693615196301,
       "date_time_iso": "2023-09-02T00:39:56.301Z",
       "cartList": [
