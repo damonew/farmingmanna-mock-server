@@ -208,6 +208,16 @@
         1000
       ],
       "id": 1
+    },
+    {
+      "email": "demo@test.com",
+      "password": "$2a$10$qjoBuSSgQ/XKGuTdaVNGu.mD8W2DB7aiacWQpDPRDEnmAGMRBIHym",
+      "first_name": "Demo",
+      "last_name": "Manna",
+      "permission": [
+        3000
+      ],
+      "id": 2
     }
   ],
   "user_role": [
