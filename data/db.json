@@ -236,5 +236,6 @@
       "role_name": "client",
       "permission": 3000
     }
-  ]
+  ],
+  "newsletter": []
 }
