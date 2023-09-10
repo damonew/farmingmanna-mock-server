@@ -14,7 +14,8 @@
       "best_seller": true,
       "type": "flower",
       "sub_type": "indica",
-      "thc_level": "25.8%"
+      "thc_level": 25.80,
+      "terpene": 10.001
     },
     {
       "id": 10002,
@@ -29,7 +30,8 @@
       "best_seller": true,
       "type": "flower",
       "sub_type": "hybrid",
-      "thc_level": "28.5%"
+      "thc_level": 28.50,
+      "terpene": 20.986
     },
     {
       "id": 10003,
@@ -44,7 +46,8 @@
       "best_seller": false,
       "type": "device",
       "sub_type": "vaping",
-      "thc_level": ""
+      "thc_level": 0,
+      "terpene": 0
     },
     {
       "id": 10004,
@@ -59,7 +62,8 @@
       "best_seller": false,
       "type": "vaping",
       "sub_type": "oil",
-      "thc_level": ""
+      "thc_level": 0,
+      "terpene": 0
     },
     {
       "id": 10005,
@@ -74,7 +78,8 @@
       "best_seller": false,
       "type": "CBD",
       "sub_type": "oil",
-      "thc_level": "9.2%"
+      "thc_level": 9.20,
+      "terpene": 0
     },
     {
       "id": 10006,
@@ -89,7 +94,8 @@
       "best_seller": true,
       "type": "flower",
       "sub_type": "indica",
-      "thc_level": "31.2%"
+      "thc_level": 31.2,
+      "terpene": 60.897
     },
     {
       "id": 10007,
@@ -104,7 +110,8 @@
       "best_seller": false,
       "type": "flower",
       "sub_type": "hybrid",
-      "thc_level": "27.3%"
+      "thc_level": 27.3,
+      "terpene": 99.675
     },
     {
       "id": 10008,
@@ -119,7 +126,8 @@
       "best_seller": false,
       "type": "flower",
       "sub_type": "sativa",
-      "thc_level": "25.1%"
+      "thc_level": 25.10,
+      "terpene": 40.347
     }
   ],
   "featured_products": [
@@ -137,7 +145,8 @@
       "best_seller": true,
       "type": "flower",
       "sub_type": "indica",
-      "thc_level": "25.8%"
+      "thc_level": 25.80,
+      "terpene": 10.001
     },
     {
       "id": 10002,
@@ -152,7 +161,8 @@
       "best_seller": true,
       "type": "flower",
       "sub_type": "hybrid",
-      "thc_level": "28.5%"
+      "thc_level": 28.50,
+      "terpene": 20.986
     },
     {
       "id": 10003,
@@ -166,7 +176,9 @@
       "count": 0,
       "best_seller": false,
       "type": "device",
-      "sub_type": "vaping"
+      "sub_type": "vaping",
+      "thc_level": 0,
+      "terpene": 0
     }
   ],
   "orders": [
