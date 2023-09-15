@@ -17,7 +17,8 @@
       "sub_type": "indica",
       "thc_level": 25.80,
       "terpene": 10.001,
-      "sativa_amount": 0
+      "sativa_amount": 0,
+      "lab_report_url": "https://sh-ms.qbench.net/pr/64f420056596d25"
     },
     {
       "id": 10002,
@@ -35,61 +36,8 @@
       "sub_type": "hybrid",
       "thc_level": 28.50,
       "terpene": 20.986,
-      "sativa_amount": 50
-    },
-    {
-      "id": 10003,
-      "featured": false,
-      "name": "Pax 3",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 200,
-      "image_local": "/assets/images/pax3.jpg",
-      "rating": 4,
-      "in_stock": false,
-      "count": 0,
-      "best_seller": false,
-      "type": "device",
-      "sub_type": "vaping",
-      "thc_level": 0,
-      "terpene": 0,
-      "sativa_amount": 0
-    },
-    {
-      "id": 10004,
-      "featured": true,
-      "name": "Vaping",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 40,
-      "image_local": "/assets/images/vaping.jpg",
-      "rating": 2,
-      "in_stock": true,
-      "count": 7,
-      "best_seller": false,
-      "type": "vaping",
-      "sub_type": "oil",
-      "thc_level": 0,
-      "terpene": 0,
-      "sativa_amount": 0
-    },
-    {
-      "id": 10005,
-      "featured": true,
-      "name": "CBD Tincture",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 30,
-      "image_local": "/assets/images/tincture.jpg",
-      "rating": 1,
-      "in_stock": true,
-      "count": 3,
-      "best_seller": false,
-      "type": "CBD",
-      "sub_type": "oil",
-      "thc_level": 9.20,
-      "terpene": 0,
-      "sativa_amount": 0
+      "sativa_amount": 50,
+      "lab_report_url": "https://sh-ms.qbench.net/pr/64f420056596d25"
     },
     {
       "id": 10006,
@@ -107,7 +55,8 @@
       "sub_type": "hybrid",
       "thc_level": 31.2,
       "terpene": 60.897,
-      "sativa_amount": 10
+      "sativa_amount": 10,
+      "lab_report_url": "https://sh-ms.qbench.net/pr/64f420056596d25"
     },
     {
       "id": 10007,
@@ -125,7 +74,8 @@
       "sub_type": "hybrid",
       "thc_level": 27.3,
       "terpene": 99.675,
-      "sativa_amount": 80
+      "sativa_amount": 80,
+      "lab_report_url": "https://sh-ms.qbench.net/pr/64f420056596d25"
     },
     {
       "id": 10008,
@@ -143,7 +93,8 @@
       "sub_type": "sativa",
       "thc_level": 25.10,
       "terpene": 40.347,
-      "sativa_amount": 100
+      "sativa_amount": 100,
+      "lab_report_url": "https://sh-ms.qbench.net/pr/64f420056596d25"
     }
   ],
   "orders": [],
