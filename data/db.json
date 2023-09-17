@@ -18,11 +18,11 @@
       "thc_level": 25.80,
       "terpene": 10.001,
       "sativa_amount": 0,
-      "lab_report_url": "https://sh-ms.qbench.net/pr/64f420056596d25"
+      "lab_report_id": "64f420056596d25"
     },
     {
       "id": 10002,
-      "featured": true,
+      "featured": false,
       "name": "Strawberry Kush",
       "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
       "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
@@ -37,7 +37,7 @@
       "thc_level": 28.50,
       "terpene": 20.986,
       "sativa_amount": 50,
-      "lab_report_url": "https://sh-ms.qbench.net/pr/64f420056596d25"
+      "lab_report_id": "64f420056596d25"
     },
     {
       "id": 10006,
@@ -56,7 +56,7 @@
       "thc_level": 31.2,
       "terpene": 60.897,
       "sativa_amount": 10,
-      "lab_report_url": "https://sh-ms.qbench.net/pr/64f420056596d25"
+      "lab_report_id": "64f420056596d25"
     },
     {
       "id": 10007,
@@ -75,7 +75,7 @@
       "thc_level": 27.3,
       "terpene": 99.675,
       "sativa_amount": 80,
-      "lab_report_url": "https://sh-ms.qbench.net/pr/64f420056596d25"
+      "lab_report_id": "64f420056596d25"
     },
     {
       "id": 10008,
@@ -94,7 +94,7 @@
       "thc_level": 25.10,
       "terpene": 40.347,
       "sativa_amount": 100,
-      "lab_report_url": "https://sh-ms.qbench.net/pr/64f420056596d25"
+      "lab_report_id": "64f420056596d25"
     }
   ],
   "orders": [],
